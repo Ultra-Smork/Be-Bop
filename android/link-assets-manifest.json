@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Fonts/A little sunshine.ttf",
+      "sha1": "fe4db0e582235c42411d87dab1d9930a50538b02"
+    },
+    {
+      "path": "assets/Fonts/Figtree-VariableFont_wght.ttf",
+      "sha1": "1a2c3b4b2e4e4f6831124e10de6703f517e09509"
+    },
+    {
+      "path": "assets/Fonts/kenyan coffee bd.otf",
+      "sha1": "7beba7a38eda47377dda0824d7252926ade25157"
+    },
+    {
+      "path": "assets/Fonts/Love & Sunshine - TTF.ttf",
+      "sha1": "c47a4ae8a88f88b7f3fb57f1e3db98bbb23d76d3"
+    },
+    {
+      "path": "assets/Fonts/Reef.otf",
+      "sha1": "f275fb6898052ab73551ee860e2118d46425086b"
+    },
+    {
+      "path": "assets/Fonts/Sunny Brush.ttf",
+      "sha1": "5393e12cfa2158da98de1441be5cac1ffc4c08f4"
+    }
+  ]
+}
