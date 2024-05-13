@@ -305,8 +305,9 @@ const MyComponent: React.FC<MyComponentProps> = ({route} : any) => {
         nestedScrollEnabled={true}
       />
     </View>
-  );
+  );``
 
+  
 
   return (
     <ScrollView contentContainerStyle={{ flexGrow: 1 }} nestedScrollEnabled={true}>
